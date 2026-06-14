@@ -20,6 +20,8 @@ DOMAIN-KEYWORD,lz-cdn
 DOMAIN,v.vbing.me
 #电影天堂
 DOMAIN-KEYWORD,dytt
+#低端影视
+DOMAIN-SUFFIX,ddys.app
 #AshNet机场
 DOMAIN-SUFFIX,ashcloud.io
 DOMAIN,staticasset.flowaccess.org
