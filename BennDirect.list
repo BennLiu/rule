@@ -7,6 +7,8 @@ DOMAIN,api.momentumdash.com
 DOMAIN-SUFFIX,doubanio.com
 #直播源
 DOMAIN-SUFFIX,yunmei.tv
+#AppleTV
+DOMAIN-SUFFIX,tv.apple.com
 #量子资源
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,lzzyimg.com
