@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,yunmei.tv
 #AppleTV
 DOMAIN-SUFFIX,tv.apple.com
+#电影天堂
+DOMAIN-KEYWORD,dytt
 #量子资源
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,lzzyimg.com
