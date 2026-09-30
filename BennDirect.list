@@ -13,16 +13,6 @@ DOMAIN-SUFFIX,yunmei.tv
 DOMAIN-SUFFIX,tv.apple.com
 #电影天堂
 DOMAIN-KEYWORD,dytt
-DOMAIN-SUFFIX,phimgood.com
-#量子资源
-DOMAIN-SUFFIX,lziapi.com
-DOMAIN-SUFFIX,lzzyimg.com
-DOMAIN-SUFFIX,lzipic.com
-DOMAIN-SUFFIX,liangzipic.com
-DOMAIN-SUFFIX,viptulz.com
-DOMAIN-SUFFIX,lfthirtytwo.com
-DOMAIN-KEYWORD,lzcdn
-DOMAIN-KEYWORD,lz-cdn
 #libvio播放域名
 DOMAIN,v.vbing.me
 #低端影视
